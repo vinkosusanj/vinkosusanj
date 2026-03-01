@@ -1,9 +1,3 @@
-## Hi there 👋
+# Vinko Susanj :call_me_hand:
 
-<!--
-**vinkosusanj/vinkosusanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on all my personal Proyects
-- 🌱 I’m currently learning HTML
+## Desarrollador siempre dispuesto a aprender :muscle:
