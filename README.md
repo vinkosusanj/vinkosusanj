@@ -1,6 +1,6 @@
 # Hi, I'm Vinko Susanj :call_me_hand:
 
-## Developer always willing to learn:muscle:
+## Developer always willing to learn :muscle:
 
 
 💻 Fullstock Developer in Progress  
